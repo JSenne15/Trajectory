@@ -7,3 +7,7 @@ Aqui irei representar todos os trabalhos realizados e conhecimentos obtidos atra
 - PowerBI
 - PowerApp
 - Power Automate
+
+# PowerPoint
+Essa foi a primeira tarefa atribuída do semestre. O objetivo dela era integrar os alunos, para que todos se conhecessem melhor. Foi um trabalho em grupo, e eu o fiz com os alunos: Gabriel Barradas, Ana Clara e Mariana.
+[Visualizar Apresentação](Apresentação.powerpoint.pdf)

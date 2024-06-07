@@ -17,3 +17,4 @@ Essa foi a primeira tarefa atribuída do semestre. O objetivo dela era integrar 
 No excel nós aprendemos a usar fórmulas para calculas soma, lucro, receita, gasto, etc. Nessa atividade específica nós colocamos nossos gastos mensais e com as fórmulas foi possível saber a situação financeira mensal.
 
 - [Visualizar Apresentação](Gastos mensais.xlsx)
+  

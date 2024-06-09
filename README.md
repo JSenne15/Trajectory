@@ -18,4 +18,5 @@ No excel nós aprendemos a usar fórmulas para calculas soma, lucro, receita, ga
 
 <img src="image.png">
 
-  
+
+- [Visualizar Apresentação](Apresentação.powerpoint.pdf)

@@ -18,5 +18,7 @@ No excel nós aprendemos a usar fórmulas para calculas soma, lucro, receita, ga
 
 <img src="image.png">
 
+# Power BI
+Nós desenvolvemos uma vizualização interayiva com dados abertos. No meu dashboard eu utilizei dados do CENIPA, e deselvolvi uma vizualização com o objetivo de demonstrar acidentes na aviação cívil brasileira.
 
 - [Visualizar Apresentação](acidentes.pbix)

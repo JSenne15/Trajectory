@@ -23,13 +23,14 @@ No excel nós aprendemos a usar fórmulas para calculas soma, lucro, receita, ga
 <img src="excel.png"> 
 
 # Power BI
-Nós desenvolvemos uma vizualização interayiva com dados abertos. No meu dashboard eu utilizei dados do CENIPA, e deselvolvi uma vizualização com o objetivo de demonstrar acidentes na aviação cívil brasileira.
+Nós desenvolvemos uma vizualização interativa com dados abertos. No meu dashboard eu utilizei dados do CENIPA, e deselvolvi uma vizualização com o objetivo de demonstrar acidentes na aviação cívil brasileira.
 
 - [Visualizar Apresentação](acidentes.pbix)
 
 <img src="powerbi.png">
 
 # PowerApp
+O meu PowerApp foi desenvolsido juntamente com a Stela. Nós utilizamos dados abertos do ANTT.
 <img src="powerapp.png">
 <img src="image.png">
 

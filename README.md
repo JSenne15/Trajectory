@@ -34,4 +34,4 @@ Nós desenvolvemos uma vizualização interayiva com dados abertos. No meu dashb
 
 # Power Automate
 Nós não nos aprofumdamos nesse software, porém foi desenvolvivido um fluxo. No meu caso uma programação para quando um evendo estiver próximo.
-<img src="image.png">
+<img src="powerautomate.png">

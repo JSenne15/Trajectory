@@ -32,7 +32,6 @@ Nós desenvolvemos uma vizualização interativa com dados abertos. No meu dashb
 # PowerApp
 O meu PowerApp foi desenvolsido juntamente com a Stela. Nós utilizamos dados abertos do ANTT.
 <img src="powerapp.png">
-<img src="image.png">
 
 
 # Power Automate

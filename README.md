@@ -1,5 +1,6 @@
 # Trajectory
 Aqui irei representar todos os trabalhos realizados e conhecimentos obtidos atravéz das aulas neste primeiro semestre.
+<img src="image.png"> 
 
 # Índice 
 - PowerPoint

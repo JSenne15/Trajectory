@@ -31,6 +31,7 @@ Nós desenvolvemos uma vizualização interayiva com dados abertos. No meu dashb
 # PowerApp
 <img src="image.png">
 
+
 # Power Automate
 Nós não nos aprofumdamos nesse software, porém foi desenvolvivido um fluxo. No meu caso uma programação para quando um evendo estiver próximo.
 <img src="image.png">
